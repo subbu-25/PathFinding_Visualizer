@@ -1,0 +1,15 @@
+.grid-container {
+  margin: 10% auto;
+  margin-top: 3%;
+}
+
+.grid {
+  white-space: pre;
+}
+
+button {
+  margin: 2px;
+}
+.no-scroll {
+  overflow-y: hidden;
+}
