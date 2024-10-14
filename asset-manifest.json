@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/subbu-25/PathFinding_Visualizer/static/css/main.5ea8a8b5.css",
+    "main.js": "/subbu-25/PathFinding_Visualizer/static/js/main.7814d984.js",
+    "index.html": "/subbu-25/PathFinding_Visualizer/index.html",
+    "main.5ea8a8b5.css.map": "/subbu-25/PathFinding_Visualizer/static/css/main.5ea8a8b5.css.map",
+    "main.7814d984.js.map": "/subbu-25/PathFinding_Visualizer/static/js/main.7814d984.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5ea8a8b5.css",
+    "static/js/main.7814d984.js"
+  ]
+}
